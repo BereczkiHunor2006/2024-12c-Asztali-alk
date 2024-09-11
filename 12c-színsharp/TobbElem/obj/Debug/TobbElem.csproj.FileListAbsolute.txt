@@ -1,0 +1,6 @@
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\bin\Debug\TobbElem.exe.config
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\bin\Debug\TobbElem.exe
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\bin\Debug\TobbElem.pdb
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\obj\Debug\TobbElem.exe
+C:\Users\2021122\source\repos\2024-12c-Asztali-alk\12c-színsharp\TobbElem\obj\Debug\TobbElem.pdb
